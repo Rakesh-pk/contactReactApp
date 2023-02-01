@@ -1,4 +1,4 @@
 ##
 Tech Used
 ##
-*HTML/JSX *CSS *ReactJs
+*HTML/JSX *CSS *JavaScript *ReactJs
