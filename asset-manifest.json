@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contactReactApp/static/css/main.6a25e330.css",
+    "main.js": "/contactReactApp/static/js/main.a793d2be.js",
+    "index.html": "/contactReactApp/index.html",
+    "main.6a25e330.css.map": "/contactReactApp/static/css/main.6a25e330.css.map",
+    "main.a793d2be.js.map": "/contactReactApp/static/js/main.a793d2be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a25e330.css",
+    "static/js/main.a793d2be.js"
+  ]
+}
